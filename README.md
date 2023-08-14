@@ -12,6 +12,10 @@ Follow the installation guide below to install the GUI, then run `run_gui.ps1`(w
 ## Usage
 
 ### Clone repo with submodules
+更改为wup修改的仓库地址
+```sh
+git clone https://ghproxy.com/https://github.com/DoubleCake/lora-scripts.git
+```
 
 ```sh
 git clone --recurse-submodules https://github.com/Akegarasu/lora-scripts
